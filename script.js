@@ -146,8 +146,8 @@ const typeWriter = () => {
 
 // Telegram Bot Integration
 const messageForm = document.getElementById("messageForm");
-const BOT_TOKEN = "7200493185:AAGtK25xEJpmUcgIebgiZTcEpGpvrmwD3mo"; // Replace with your Telegram Bot Token
-const CHAT_ID = "6844829004"; // Replace with your Telegram Chat ID
+const BOT_TOKEN = "BOT_TOKEN"; // Replace with your Telegram Bot Token
+const CHAT_ID = "CHAT_ID"; // Replace with your Telegram Chat ID
 
 messageForm.addEventListener("submit", async (e) => {
   e.preventDefault();
