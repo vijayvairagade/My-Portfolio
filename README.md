@@ -44,5 +44,3 @@ This project is open source
 
 Vijay Vairagade
 
-Ignore This
-Last Seen - 07:50PM 17/07/2025 Thursday
